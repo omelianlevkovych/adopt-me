@@ -1,3 +1,6 @@
 # adopt-me
 react basic course from frontend masters
-initial commit
+
+`
+https://react-v8.holt.courses/
+`
